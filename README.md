@@ -1,22 +1,25 @@
 # The impact of COVID-19 on housing price
-
-![made-with-python](https://img.shields.io/badge/Made%20with-Python3-brightgreen)
+ Made with ❤︎ by [Nataia Chirtoca](https://www.linkedin.com/in/natalia_chirtoca/)
+<div align="center">
+   Made with ❤︎ by [Nataia Chirtoca](https://www.linkedin.com/in/natalia_chirtoca/)
+</div>
 
 <!-- primary badges -------------------------------------->
 <p align="center">
-  <img src='https://img.shields.io/badge/Made%20with-Python3-brightgreen' />
+  ![Python]('https://img.shields.io/badge/Made%20with-Python3-brightgreen')
+  [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 </p>
 
-<div align="center">
-  <sub> Made with ❤︎ by </sub> [Nataia Chirtoca] (https://www.linkedin.com/in/natalia_chirtoca/)
-</div>
 
 ## 🌻 Motivation
+
+<img align="right" src=".src/2C5L.gif" height="200">
+
 In this project we are going to carry out an analysis of the evolution of a house prices dataset. 
-<p align='center'>
+<!-- <p align='center'>
      ![gif](src/2C5L.gif)
 </p>
-<br/>
+<br/> -->
 
 ## ⚛ Process
 For the development of this project we will be using the CRISP-DM methodology, which include the following stages. 
