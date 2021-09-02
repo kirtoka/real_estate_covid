@@ -1,5 +1,5 @@
 # The impact of COVID-19 on housing price
-<iframe src="https://gifer.com/embed/2C5L" width=480 height=274.286 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com"></a></p>
+<img src="https://gifer.com/embed/2C5L" width=480 height=274.286 frameBorder="0" allowFullScreen>
 ## Motivation
 In this project we are going to carry out an analysis of the evolution of a house prices dataset.
 ## Process
