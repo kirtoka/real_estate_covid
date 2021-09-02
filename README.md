@@ -13,7 +13,7 @@
 <img align="right" src="src/2C5L.gif" height="200">
 
 ## 🌻 Motivation
-In this project we are going to carry out an analysis of the evolution of a house prices dataset. 
+In this project we are going to carry out an analysis of the evolution of a house prices. 
 <!-- <p align='center'>
      ![gif](src/2C5L.gif)
 </p>
