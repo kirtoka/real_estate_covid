@@ -1,12 +1,12 @@
 # The impact of COVID-19 on housing price
+<!--
 <div align="center">
   <sub> Made with ❤︎ by
   <a href="https://www.linkedin.com/in/natalia_chirtoca/">Natalia Chirtoca</a> 
-</div>
+</div> -->
 
 
 <!-- primary badges -------------------------------------->
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
