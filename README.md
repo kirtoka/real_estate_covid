@@ -1,16 +1,18 @@
 # The impact of COVID-19 on housing price
- Made with ❤︎ by [Nataia Chirtoca] (https://www.linkedin.com/in/natalia_chirtoca/)
+<div align="center">
+  <sub> Made with ❤︎ by
+  <a href="https://www.linkedin.com/in/natalia_chirtoca/">Natalia Chirtoca</a> 
+</div>
 
 
 <!-- primary badges -------------------------------------->
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-
-## 🌻 Motivation
-
 <img align="right" src="src/2C5L.gif" height="200">
 
+## 🌻 Motivation
 In this project we are going to carry out an analysis of the evolution of a house prices dataset. 
 <!-- <p align='center'>
      ![gif](src/2C5L.gif)
