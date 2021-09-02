@@ -1,7 +1,12 @@
-# The impact of COVID-19 on housing price 
-![gif](src/2C5L.gif)
+# The impact of COVID-19 on housing price
+
+<div align="center">
+  <sub> Made with ❤︎ by
+  [![Linkedin: Nataia Chirtoca](https://img.shields.io/badge/-natalia_chirtoca-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natalia_chirtoca/)](https://www.linkedin.com/in/natalia_chirtoca/)
+</div>
+
 ## Motivation
-In this project we are going to carry out an analysis of the evolution of a house prices dataset.
+In this project we are going to carry out an analysis of the evolution of a house prices dataset. ![gif](src/2C5L.gif)
 ## Process
 For the development of this project we will be using the CRISP-DM methodology, which include the following stages. 
  - Business Understanding 
