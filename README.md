@@ -1,13 +1,28 @@
 # The impact of COVID-19 on housing price
 
+![made-with-python](https://img.shields.io/badge/Made%20with-Python3-brightgreen)
+
+<!-- primary badges -------------------------------------->
+<p align="center">
+  <!-- size -->
+  <img src='https://img.shields.io/bundlephobia/minzip/radioactive-state?color=success&label=size' />
+   <!-- follow -->
+  <img src='https://img.shields.io/github/followers/MananTank?label=Follow&style=social&color=%23FFB31A' />
+</p>
+
 <div align="center">
   <sub> Made with ❤︎ by
-  [![Linkedin: Nataia Chirtoca](https://img.shields.io/badge/-natalia_chirtoca-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natalia_chirtoca/)](https://www.linkedin.com/in/natalia_chirtoca/)
+  ![Linkedin: Nataia Chirtoca](https://img.shields.io/badge/-natalia_chirtoca-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natalia_chirtoca/)](https://www.linkedin.com/in/natalia_chirtoca/)
 </div>
 
-## Motivation
-In this project we are going to carry out an analysis of the evolution of a house prices dataset. ![gif](src/2C5L.gif)
-## Process
+## 🌻 Motivation
+In this project we are going to carry out an analysis of the evolution of a house prices dataset. 
+<p align='center'>
+     ![gif](src/2C5L.gif)
+</p>
+<br/>
+
+## ⚛ Process
 For the development of this project we will be using the CRISP-DM methodology, which include the following stages. 
  - Business Understanding 
  - Data Understanding 
@@ -15,12 +30,13 @@ For the development of this project we will be using the CRISP-DM methodology, w
  - Data Modeling 
  - Evaluate the Results 
  - Deploy
-### Business Understanding
+
+### ⚡ Business Understanding
 What are the best states to invest in real estate?
 Is Now a Good Time to Buy a House?
 Which feature has more effect in increasing the price of the house?
 
-## Installation
+## ⛳ Installation
 Libraries required:
 - Python 3
 - Scikit-learn
@@ -29,7 +45,7 @@ Libraries required:
 
 Because of github limitations to big dataset files, download the file from [here](https://drive.google.com/file/d/1CoE7MhIeW89lvu6XhYiPBkb8RRm9eo7O/view?usp=sharing)
 
-## Dataset
+## 📙 Dataset
 Index(['month_date_yyyymm', 'postal_code', 'zip_name', 'flag',
        'median_listing_price', 'median_listing_price_mm',
        'median_listing_price_yy', 'active_listing_count',
@@ -87,9 +103,9 @@ Index(['month_date_yyyymm', 'postal_code', 'zip_name', 'flag',
  - Pending Ratio M/M	- The change in the pending ratio from the previous month.
  - Pending Ratio Y/Y	- The change in the pending ratio from the same month in the previous year.
 
-## Medium Blogpost
+## Ⓜ️ Medium Blogpost
 You can see the complete article [here](https://medium.com/@chirtoca.natalia/covid-19-and-real-estate-b33321491ce6)
 
-## Licensing, Acknowledgements
+## 🙏 Licensing, Acknowledgements
 This project is published in 2021 under [MIT](https://es.wikipedia.org/wiki/Licencia_MIT) license.
 Must give credit to Kaggle for the data.
