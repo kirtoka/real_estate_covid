@@ -4,15 +4,11 @@
 
 <!-- primary badges -------------------------------------->
 <p align="center">
-  <!-- size -->
-  <img src='https://img.shields.io/bundlephobia/minzip/radioactive-state?color=success&label=size' />
-   <!-- follow -->
-  <img src='https://img.shields.io/github/followers/MananTank?label=Follow&style=social&color=%23FFB31A' />
+  <img src='https://img.shields.io/badge/Made%20with-Python3-brightgreen' />
 </p>
 
 <div align="center">
-  <sub> Made with ❤︎ by
-  ![Linkedin: Nataia Chirtoca](https://img.shields.io/badge/-natalia_chirtoca-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natalia_chirtoca/)](https://www.linkedin.com/in/natalia_chirtoca/)
+  <sub> Made with ❤︎ by </sub> [Nataia Chirtoca] (https://www.linkedin.com/in/natalia_chirtoca/)
 </div>
 
 ## 🌻 Motivation
