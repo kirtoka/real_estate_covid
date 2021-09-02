@@ -85,5 +85,6 @@ Index(['month_date_yyyymm', 'postal_code', 'zip_name', 'flag',
 ## Medium Blogpost
 You can see the complete article [here](https://medium.com/@chirtoca.natalia/covid-19-and-real-estate-b33321491ce6)
 
-## Licensing
+## Licensing, Acknowledgements
 This project is published in 2021 under [MIT](https://es.wikipedia.org/wiki/Licencia_MIT) license.
+Must give credit to Kaggle for the data.
