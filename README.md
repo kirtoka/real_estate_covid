@@ -13,7 +13,7 @@
 <img align="right" src="src/2C5L.gif" height="200">
 
 ## 🌻 Motivation
-In this project we are going to carry out an analysis of the evolution of a house prices. 
+In this project we are going to carry out an analysis of the evolution of a house prices for the US. 
 <!-- <p align='center'>
      ![gif](src/2C5L.gif)
 </p>
@@ -104,5 +104,5 @@ Index(['month_date_yyyymm', 'postal_code', 'zip_name', 'flag',
 You can see the complete article [here](https://medium.com/@chirtoca.natalia/covid-19-and-real-estate-b33321491ce6)
 
 ## 🙏 Licensing, Acknowledgements
-This project is published in 2021 under [MIT](https://es.wikipedia.org/wiki/Licencia_MIT) license.
+This project is published in 2021 under [MIT](https://en.wikipedia.org/wiki/MIT_License) license.
 Must give credit to Kaggle for the data.
